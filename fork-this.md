@@ -22,9 +22,9 @@ Notice that the pattern is:
 ## Fork on the Range (a new GitHub Classic)
 
 ```
-Oh, fork me a repo where the edits go
-Where the Brave and the Fearless play;
-Where seldom is fomented a negative comment,
+Oh, fork me a repo where the edits all go
+Where the Brave and the Fearless do play;
+Where seldom is borked a deleterious fork,
 And the remixes happen all day.
 ```
 
@@ -32,7 +32,7 @@ And the remixes happen all day.
 ------------ CHORUS ------------ 
 A repo! A repo!
 Where the Brave and the Fearless play;
-Where seldom is heard a discouraging word,
+Where seldom is borked a deleterious fork,
 And the sky is not cloudy all day.
 ------------ CHORUS ------------ 
 ```
